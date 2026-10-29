@@ -1,0 +1,17 @@
+{
+  "bundle_version": "2026-10-29-consolidated",
+  "latest_extension": "16.3.0.44",
+  "source_status": "STAGING",
+  "backend_status": "reference snapshots; not verified production",
+  "entrypoint": "00_START_HERE_给DeepSeek.md",
+  "file_count_before_hash_list": 211,
+  "handoff_roots": [
+    "01_最新插件源码_test10.7.44",
+    "02_施工报告与API契约",
+    "03_OGL运费模板及证据",
+    "04_独立店铺工作台_只读_test10.7.43",
+    "05_后端历史源码参考",
+    "06_原始数据与审计样本",
+    "07_用户问题复现截图"
+  ]
+}
